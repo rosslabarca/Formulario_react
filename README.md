@@ -50,8 +50,8 @@ Simple React Snippets (https://marketplace.visualstudio.com/items?itemName=burke
 ES7+ React/Redux/React-Native snippets (https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) Version 4.4.3
 Vite (https://vitejs.dev/guide/) configuración en la terminal Go Comand $ npm create vite@latest 
 Chakra UI https://chakra-ui.com/ configuración en la terminal Go Comand npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion 
-Netlify app para hacer el deployed https://app.netlify.com/sites/contadorreactrl/overview
-Página: https://contadorreactrl.netlify.app/
+Netlify app para hacer el deployed https://app.netlify.com/sites/formularioreactrl/configuration/general
+Página: https://formularioreactrl.netlify.app/
 
 Installation
 ________________________________________
@@ -63,11 +63,9 @@ ________________________________________
 1.	Instalación de las tecnologías usadas.
 2.	Agregar los meta datos, Google Fonts, Favicon, scripts en el index.html.
 3.	Crear en la carpeta public la carpeta assets y luego la de imagenes, agregar todos los archivos visuales en ella.
-4.	Darle los estilos generales en el index.css.
-5.	Crear una carpeta para agregar el componente princial renderizado a app.jsx, llamado Contador.jsx.
-6.	Crear 2 carpetas para agregar los componentes secundarios (respectivamente) renderizado a main.jsx, llamados Header.jsx, y Footer.jsx.
-7.	Subir los archivos a GitHub.
-8.	Hacer el deployed en Netlify.  https://contadorreactrl.netlify.app/
+4.	Crear una carpeta para agregar el componente princial renderizado a app.jsx, llamado Formulario.jsx.
+5.	Subir los archivos a GitHub.
+6.	Hacer el deployed en Netlify. https://formularioreactrl.netlify.app/
 
 
 
